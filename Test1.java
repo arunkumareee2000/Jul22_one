@@ -7,7 +7,7 @@ public class Test1{
 
      int b=5;
      while(b<=10){
-            System.out.println("While loop executed "+a+" times");
+            System.out.println("While loop executed "+b+" times");
             b++;
      }
 
