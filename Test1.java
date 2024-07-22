@@ -11,8 +11,6 @@ public class Test1(){
             a++;
      }
 
-     System.out.println("Done for the day let's go for sleep");
-
   }
 
 }
